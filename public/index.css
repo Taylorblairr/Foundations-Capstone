@@ -1,0 +1,176 @@
+
+
+.headerimg {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.headertxt {
+    display: flexbox;
+    font-family:'Gill Sans', 'Gill Sans MT';
+    color: #7f91a9;
+    font-size: 15pt;
+    
+}
+.showBtn {
+    display: inline-flex;
+    outline: none;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 5px 20px;
+    border: 0;
+    color: #000021;
+    background: rgb(131, 143, 161);
+    line-height: 1.15;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+    .showBtn:hover {
+        transition: all .1s ease;
+        box-shadow: 0 0 0 0 #fff, 0 0 0 3px #6f96eb;
+    }
+
+
+.instock-items {
+    background-color: rgb(53, 53, 53);
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 25pt;
+    color: #7f91a9;
+    margin-bottom: 5px;
+    align-items: flex-start;
+    margin-left: auto
+    ;
+
+}
+
+h5 {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 15pt;
+    color: #7f91a9;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: auto;
+
+}
+
+
+.cartbtn {
+    display: inline-flex;
+    outline: none;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 5px 12px;
+    border: 0;
+    color: #000021;
+    background: rgb(131, 143, 161);
+    line-height: 1.15;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+    .cartbtn:hover {
+        transition: all .1s ease;
+        box-shadow: 0 0 0 0 #fff, 0 0 0 3px #6f96eb;
+    }
+
+
+
+
+.albumImg {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 405px;
+    height: 400px;
+   
+    
+}
+
+.tapeImg, .tapeImgTwo {
+    display: inline-flex;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+header, body {
+    background-color: #242526 ;
+    text-align:center;
+}
+
+.cartHeader { 
+    display: flexbox;
+    font-family:'Gill Sans', 'Gill Sans MT';
+    color: #7f91a9;  
+    font-size: 25pt; 
+}
+.cart-items {
+    background-color: rgb(53, 53, 53);
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h6 {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 25pt;
+    color: #7f91a9;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: auto;
+
+}
+
+h7 {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 15pt;
+    color: #7f91a9;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: auto;
+
+}
+
+.tapeImg3 {
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+.removebtn {
+    display: inline-flex;
+    outline: none;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 5px 20px;
+    border: 0;
+    color: #000021;
+    background: rgb(131, 143, 161);
+    line-height: 1.15;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+    .showBtn:hover {
+        transition: all .1s ease;
+        box-shadow: 0 0 0 0 #fff, 0 0 0 3px #6f96eb;
+    }

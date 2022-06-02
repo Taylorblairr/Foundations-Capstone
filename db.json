@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+        "name": "Dolphins in space", 
+        "imgAddress": "https://f4.bcbits.com/img/a3433263858_16.jpg",
+        "Price": 15
+    }, 
+    
+    {
+        "id": 1,
+        "name": "The Water Isn't Safe", 
+        "imgAddress": "https://f4.bcbits.com/img/a2942415068_10.jpg",
+        "price": 15 
+    }, 
+    {
+        "id": 2,
+        "name": "House in the snow", 
+        "imgAddress": "https://f4.bcbits.com/img/a0261583282_16.jpg",
+        "price": 15
+    }
+] 
