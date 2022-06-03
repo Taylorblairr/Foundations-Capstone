@@ -76,13 +76,6 @@ const chooseCartItem = (id) => {
     renderChoices()
     }
 
-    // const removeCartItem = (id) => {
-    //     let index = choices.findIndex(stock => stock.id === id)
-    //     // realCart.push(choices[index])
-    //     choices.splice(index)
-    //     console.log('I work')
-        // removeBtn.classList.splice('hide')
-    // }
      
 
     const removeCartItem = () => {
