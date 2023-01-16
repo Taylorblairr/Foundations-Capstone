@@ -10,5 +10,8 @@ HTML/CSS, Javascript, Axios, Nodemon, Local Database
 3. User is able to add items to a cart
 4. User is able to remove items from the cart
 
+#### DEMO
+https://www.youtube.com/watch?v=ZJTH6AJgSHM&feature=youtu.be
+
 ###### Author
 Taylor Blair is a software engineer in Salt Lake City, UT.
